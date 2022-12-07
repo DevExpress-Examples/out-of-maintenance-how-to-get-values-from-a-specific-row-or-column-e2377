@@ -12,7 +12,7 @@ using System.Text;
 using DevExpress.XtraPivotGrid;
 using System.Collections.Generic;
 using System.Data.OleDb;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using DevExpress.Data.PivotGrid;
 
 public partial class _Default : System.Web.UI.Page 

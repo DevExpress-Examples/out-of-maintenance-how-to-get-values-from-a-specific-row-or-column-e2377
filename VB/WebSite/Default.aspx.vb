@@ -13,7 +13,7 @@ Imports System.Text
 Imports DevExpress.XtraPivotGrid
 Imports System.Collections.Generic
 Imports System.Data.OleDb
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports DevExpress.Data.PivotGrid
 
 Partial Public Class _Default
